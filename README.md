@@ -1,2 +1,2 @@
 # deeplearning.ai-exercise
-the solution to Andrew Ng's deeplearing course
+solution to Andrew Ng's deeplearning course
